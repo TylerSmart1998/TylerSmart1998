@@ -6,7 +6,7 @@
   - [osTicket: Prerequisites and Installation](https://github.com/TylerSmart1998/osticket-prereqs)
   - [osTicket: Ticket Lifecycle Examples](https://github.com/TylerSmart1998/ticket-lifecycle)
 
--<b>Active Directory and Azure
+- <b>Active Directory and Azure
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/TylerSmart1998/configure-ad) 
 
 <h2>🤳Connect with me:</h2>
