@@ -8,7 +8,8 @@
 
 - <b>Active Directory and Azure
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/TylerSmart1998/configure-ad) 
-
+  - [Azure Networking: VM Deployment & Traffic Analysis](https://github.com/TylerSmart1998/AzureNetworking)
+    
 <h2>🤳Connect with me:</h2>
 
 
