@@ -3,7 +3,7 @@
 <h2>👨‍💻 Information Technology Projects:</h2>
 
 - <b>[Website_Portfolio]</b>
-  (https://tylersmart1998.github.io/Portfolio_Project/resume.html)
+   - (https://tylersmart1998.github.io/Portfolio_Project/resume.html)
 
 - <b>osTicket (Help Desk Ticketing System)</b>
   - [osTicket: Prerequisites and Installation](https://github.com/TylerSmart1998/osticket-prereqs)
